@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Rodrigo Castillo 👋
+# Hola, soy Rodrigo Castillo 
 
 ### Estudiante de Inteligencia Artificial y Ciencia de Datos
 
@@ -15,15 +15,14 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
-- 🎓 Estudio **Inteligencia Artificial y Ciencia de Datos**
-- 🐍 Mi lenguaje principal es **Python**
-- 📍 Guadalajara, México
-- 🎯 Busco mi **primer empleo o prácticas** en datos / IA
-- 🗣️ Idiomas: Español, Inglés (agrega tu nivel)
+-  Estudio **Inteligencia Artificial y Ciencia de Datos**
+-  Mi lenguaje principal es **Python** 🐍
+-  Guadalajara, México
+-  Idiomas: Español, Inglés B2
 
-## 🛠️ Herramientas
+## Herramientas
 
 **Las que uso:**
 
@@ -34,16 +33,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Las que estoy aprendiendo:**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-> Deja solo lo que de verdad hayas usado. Es mejor una lista corta y honesta.
-
-## 🚀 Proyectos
+## Proyectos
 
 | Proyecto | Qué hace | Tecnologías |
 |---|---|---|
@@ -51,35 +42,20 @@
 | [Mi primer modelo de ML](https://github.com/rodrigocastillo69) | Un modelo sencillo que predice algo y cómo medí su resultado. | scikit-learn, Jupyter |
 | [Script de automatización](https://github.com/rodrigocastillo69) | Automatiza una tarea de mi día a día. | Python |
 
-> Estos tres son ejemplos: reemplaza nombre, descripción y enlace por tus repositorios reales.
 
-## 📚 Lo que estoy aprendiendo ahora
+## 📚Lo que estoy aprendiendo ahora
 
 - Estadística y probabilidad aplicadas a datos
 - SQL para consultar bases de datos
 - Machine Learning con scikit-learn
 - Visualización de datos clara y fácil de entender
 
-## 🐍 Un poco de código
-
-```python
-class Rodrigo:
-    estudia   = "Inteligencia Artificial y Ciencia de Datos"
-    lenguaje  = "Python"
-    objetivo  = "Mi primer empleo o prácticas en datos / IA"
-
-    def aprender(self):
-        return "todos los días, un proyecto a la vez"
-```
 
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigocastillo69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocastillo69)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
 <div align="center">
-
-⭐ Si algo de lo que hago te sirve, deja una estrella en el repositorio.
 
 </div>
