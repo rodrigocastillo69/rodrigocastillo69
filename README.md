@@ -43,12 +43,6 @@
 - Machine Learning con scikit-learn
 - Visualización de datos clara y fácil de entender
 
-
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=whitehttps://github.com/rodrigocastillo69)
-[![LinkedIn](https://www.linkedin.com/in/rodrigo-castillo-90304b387/)
-
 <div align="center">
 
 </div>
