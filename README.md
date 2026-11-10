@@ -34,16 +34,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-## Proyectos
-
-| Proyecto | Qué hace | Tecnologías |
-|---|---|---|
-| [Análisis de un dataset real](https://github.com/rodrigocastillo69) | Limpieza, exploración y gráficas de datos públicos. Qué pregunta me hice y qué descubrí. | Python, Pandas, Matplotlib |
-| [Mi primer modelo de ML](https://github.com/rodrigocastillo69) | Un modelo sencillo que predice algo y cómo medí su resultado. | scikit-learn, Jupyter |
-| [Script de automatización](https://github.com/rodrigocastillo69) | Automatiza una tarea de mi día a día. | Python |
 
 
-## 📚Lo que estoy aprendiendo ahora
+## Lo que estoy aprendiendo ahora
 
 - Estadística y probabilidad aplicadas a datos
 - SQL para consultar bases de datos
@@ -53,8 +46,8 @@
 
 ## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-rodrigocastillo69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocastillo69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![GitHub](https://github.com/rodrigocastillo69)
+[![LinkedIn](https://www.linkedin.com/in/rodrigo-castillo-90304b387/)
 
 <div align="center">
 
